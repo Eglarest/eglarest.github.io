@@ -2,4 +2,4 @@
 
 ## Player Information
 
-[player handout](eglarest.github.io/player_handout)
+[player handout](player_handout)
