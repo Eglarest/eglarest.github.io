@@ -1,5 +1,3 @@
-# Adventures in the Northen Wastes
+## Player Handouts
 
-## Player Information
-
-[player handout](player_handout)
+[Game Info Handout](player_handout)
